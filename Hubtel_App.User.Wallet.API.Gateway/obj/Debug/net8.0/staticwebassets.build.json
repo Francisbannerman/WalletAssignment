@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iSIPsCrH4sB3fWdw2NDSrHsOFhrO4QyeQ6TXtAJ+mqE=",
+  "Source": "Hubtel_App.User.Wallet.API.Gateway",
+  "BasePath": "_content/Hubtel_App.User.Wallet.API.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

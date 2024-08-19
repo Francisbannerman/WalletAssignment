@@ -1,0 +1,12 @@
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/bin/Debug/net8.0/Hubtel_App.Infrastructure.deps.json
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/bin/Debug/net8.0/Hubtel_App.Infrastructure.dll
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/bin/Debug/net8.0/Hubtel_App.Infrastructure.pdb
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/obj/Debug/net8.0/Hubtel_App.Infrastructure.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/obj/Debug/net8.0/Hubtel_App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/obj/Debug/net8.0/Hubtel_App.Infrastructure.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/obj/Debug/net8.0/Hubtel_App.Infrastructure.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/obj/Debug/net8.0/Hubtel_App.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/obj/Debug/net8.0/Hubtel_App.Infrastructure.dll
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/obj/Debug/net8.0/refint/Hubtel_App.Infrastructure.dll
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/obj/Debug/net8.0/Hubtel_App.Infrastructure.pdb
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/obj/Debug/net8.0/ref/Hubtel_App.Infrastructure.dll

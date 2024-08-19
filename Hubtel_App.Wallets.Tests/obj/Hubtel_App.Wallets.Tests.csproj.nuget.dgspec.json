@@ -1,0 +1,415 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Wallets.Tests/Hubtel_App.Wallets.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/Hubtel_App.DataProvider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/Hubtel_App.DataProvider.csproj",
+        "projectName": "Hubtel_App.DataProvider",
+        "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/Hubtel_App.DataProvider.csproj",
+        "packagesPath": "/Users/macbookpro/.nuget/packages/",
+        "outputPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macbookpro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/Hubtel_App.Infrastructure.csproj": {
+                "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/Hubtel_App.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/Hubtel_App.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/Hubtel_App.Infrastructure.csproj",
+        "projectName": "Hubtel_App.Infrastructure",
+        "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/Hubtel_App.Infrastructure.csproj",
+        "packagesPath": "/Users/macbookpro/.nuget/packages/",
+        "outputPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macbookpro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Gateway/Hubtel_App.User.Wallet.API.Gateway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Gateway/Hubtel_App.User.Wallet.API.Gateway.csproj",
+        "projectName": "Hubtel_App.User.Wallet.API.Gateway",
+        "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Gateway/Hubtel_App.User.Wallet.API.Gateway.csproj",
+        "packagesPath": "/Users/macbookpro/.nuget/packages/",
+        "outputPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Gateway/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macbookpro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/Hubtel_App.Infrastructure.csproj": {
+                "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Infrastructure/Hubtel_App.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Handler/Hubtel_App.User.Wallet.API.Handler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Handler/Hubtel_App.User.Wallet.API.Handler.csproj",
+        "projectName": "Hubtel_App.User.Wallet.API.Handler",
+        "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Handler/Hubtel_App.User.Wallet.API.Handler.csproj",
+        "packagesPath": "/Users/macbookpro/.nuget/packages/",
+        "outputPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Handler/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macbookpro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/Hubtel_App.DataProvider.csproj": {
+                "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/Hubtel_App.DataProvider.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Wallets.Tests/Hubtel_App.Wallets.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Wallets.Tests/Hubtel_App.Wallets.Tests.csproj",
+        "projectName": "Hubtel_App.Wallets.Tests",
+        "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Wallets.Tests/Hubtel_App.Wallets.Tests.csproj",
+        "packagesPath": "/Users/macbookpro/.nuget/packages/",
+        "outputPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.Wallets.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macbookpro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/Hubtel_App.DataProvider.csproj": {
+                "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/Hubtel_App.DataProvider.csproj"
+              },
+              "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Gateway/Hubtel_App.User.Wallet.API.Gateway.csproj": {
+                "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Gateway/Hubtel_App.User.Wallet.API.Gateway.csproj"
+              },
+              "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Handler/Hubtel_App.User.Wallet.API.Handler.csproj": {
+                "projectPath": "/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.User.Wallet.API.Handler/Hubtel_App.User.Wallet.API.Handler.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

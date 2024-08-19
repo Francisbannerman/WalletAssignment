@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Hubtel_App.User.Wallet.API.Gateway.props" />
+</Project>

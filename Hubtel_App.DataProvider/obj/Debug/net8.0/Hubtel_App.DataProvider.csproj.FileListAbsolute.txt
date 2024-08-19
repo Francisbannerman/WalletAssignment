@@ -1,0 +1,17 @@
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/bin/Debug/net8.0/Hubtel_App.DataProvider.deps.json
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/bin/Debug/net8.0/Hubtel_App.DataProvider.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/bin/Debug/net8.0/Hubtel_App.DataProvider.dll
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/bin/Debug/net8.0/Hubtel_App.DataProvider.pdb
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/bin/Debug/net8.0/Hubtel_App.Infrastructure.dll
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/bin/Debug/net8.0/Hubtel_App.Infrastructure.pdb
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/Hubtel_App.DataProvider.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/Hubtel_App.DataProvider.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/Hubtel_App.DataProvider.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/Hubtel_App.DataProvider.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/Hubtel_App.DataProvider.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/Hubtel_A.1F889098.Up2Date
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/Hubtel_App.DataProvider.dll
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/refint/Hubtel_App.DataProvider.dll
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/Hubtel_App.DataProvider.pdb
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/Hubtel_App.DataProvider.genruntimeconfig.cache
+/Users/macbookpro/RiderProjects/Hubtel_App/Hubtel_App.DataProvider/obj/Debug/net8.0/ref/Hubtel_App.DataProvider.dll

@@ -1,0 +1,6 @@
+@Hubtel_App.User.Wallet.API.Gateway_HostAddress = http://localhost:5189
+
+GET {{Hubtel_App.User.Wallet.API.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

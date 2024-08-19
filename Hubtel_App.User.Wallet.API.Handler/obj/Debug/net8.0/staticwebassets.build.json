@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RCizEu8z2Lo0uVSK2OWuBjp6HYaFTfaGNhcnVRhlZCU=",
+  "Source": "Hubtel_App.User.Wallet.API.Handler",
+  "BasePath": "_content/Hubtel_App.User.Wallet.API.Handler",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
